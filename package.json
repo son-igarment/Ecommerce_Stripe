@@ -1,7 +1,9 @@
 {
-  "name": "ecommerce",
+  "name": "ecommerce-stripe",
   "version": "0.1.0",
   "private": true,
+  "author": "Phạm Lê Ngọc Sơn",
+  "description": "Modern e-commerce website with Stripe payment integration",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

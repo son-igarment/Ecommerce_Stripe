@@ -1,10 +1,10 @@
 {
-  "name": "ecommerce",
+  "name": "ecommerce-stripe-cms",
   "private": true,
   "version": "1.0.0",
-  "description": "",
+  "description": "Sanity CMS for E-commerce website with Stripe integration",
   "main": "package.json",
-  "author": "JavaScript Mastery <javascriptmastery00@gmail.com>",
+  "author": "Phạm Lê Ngọc Sơn",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",

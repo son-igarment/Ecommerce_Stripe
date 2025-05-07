@@ -1,7 +1,7 @@
 {
   "root": true,
   "project": {
-    "name": "ecommerce"
+    "name": "ecommerce-stripe-pham-le-ngoc-son"
   },
   "api": {
     "projectId": "vfxfwnaw",
